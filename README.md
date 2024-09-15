@@ -27,8 +27,28 @@ Designed to facilitate rapid game development, our plugin enables the easy setup
 
 
 
-### 4.
+### 4. And finally click on the Create Button
 
+This will create the following files:
+
+- A Game Mode
+- A Controller
+- A Character
+- A Level (if the Create Level was set to true and the Base Level was set)
+
+What will be set up for you??
+
+- All the interfaces will be added to the appropriate blueprints if they were set during the creation
+- The Level will have the Game mode overriden with the prototype Game Mode you just created
+- The Game Mode will have the prototype Controller and the Character that was created during the process
+
+## Known Issues and are planned for a fix in the future updates
+
+- The Level creation doesnt work with Landscape maps as the landscape doesnt get duplicated
 
 
 **Full Changelog**: https://github.com/shahilsaha05uk/Quick-Prototype-Plugin/commits/prototype
+
+Please leave a feedback and tell us how we can improve
+
+Happy Developing!!
