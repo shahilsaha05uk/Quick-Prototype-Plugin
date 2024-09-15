@@ -4,13 +4,14 @@ Designed to facilitate rapid game development, our plugin enables the easy setup
 
 ## How to use it?
 
-### 1. Right click on the folder where you wish to create the prototype files
+### 1. Right click on the folder where you wish to create the prototype files and click "Setup Prototype"
 ![1](https://github.com/user-attachments/assets/f1723390-9312-49ea-b78d-117580502452)
 
-### 2. Click "Setup Prototype"
-![2](https://github.com/user-attachments/assets/600068ab-7667-40ac-80ef-01292158afb7)
 
 ### 3. A window with all the properties pops up
+![2](https://github.com/user-attachments/assets/600068ab-7667-40ac-80ef-01292158afb7)
+
+![image](https://github.com/user-attachments/assets/e4a7f6c5-d01a-4e27-84da-04d0e54ce904)
 
 #### Properties
 | Property                              | Uses                                                                                                         |
@@ -26,7 +27,6 @@ Designed to facilitate rapid game development, our plugin enables the easy setup
 | **Focus**                             | This will be the name of the mechanic or system that the developer is going to make with them                |
 
 
-
 ### 4. And finally click on the Create Button
 
 This will create the following files:
@@ -35,19 +35,20 @@ This will create the following files:
 - A Controller
 - A Character
 - A Level (if the Create Level was set to true and the Base Level was set)
-![image](https://github.com/user-attachments/assets/e4a7f6c5-d01a-4e27-84da-04d0e54ce904)
+![image](https://github.com/user-attachments/assets/55aa3f7e-e0bc-457c-a6db-05d21306d26f)
+
 
 What will be set up for you??
-
-- All the interfaces will be added to the appropriate blueprints if they were set during the creation
-![image](https://github.com/user-attachments/assets/974de49d-3999-452f-a5ae-fa077c544982)
-![image](https://github.com/user-attachments/assets/3971a61b-8bca-4339-b141-db9a082f7fca)
 
 - The Level will have the Game mode overriden with the prototype Game Mode you just created
 ![image](https://github.com/user-attachments/assets/10ba771c-248f-44a1-866b-97ca4e305563)
 
 - The Game Mode will have the prototype Controller and the Character that was created during the process
 ![image](https://github.com/user-attachments/assets/23fb2a0b-24ae-46ea-a544-5c8b19738677)
+
+- All the interfaces will be added to the appropriate blueprints if they were set during the creation
+![image](https://github.com/user-attachments/assets/974de49d-3999-452f-a5ae-fa077c544982)
+![image](https://github.com/user-attachments/assets/3971a61b-8bca-4339-b141-db9a082f7fca)
 
 
 ## Known Issues and are planned for a fix in the future updates
