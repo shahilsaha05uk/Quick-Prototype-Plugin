@@ -35,12 +35,20 @@ This will create the following files:
 - A Controller
 - A Character
 - A Level (if the Create Level was set to true and the Base Level was set)
+![image](https://github.com/user-attachments/assets/e4a7f6c5-d01a-4e27-84da-04d0e54ce904)
 
 What will be set up for you??
 
 - All the interfaces will be added to the appropriate blueprints if they were set during the creation
+![image](https://github.com/user-attachments/assets/974de49d-3999-452f-a5ae-fa077c544982)
+![image](https://github.com/user-attachments/assets/3971a61b-8bca-4339-b141-db9a082f7fca)
+
 - The Level will have the Game mode overriden with the prototype Game Mode you just created
+![image](https://github.com/user-attachments/assets/10ba771c-248f-44a1-866b-97ca4e305563)
+
 - The Game Mode will have the prototype Controller and the Character that was created during the process
+![image](https://github.com/user-attachments/assets/23fb2a0b-24ae-46ea-a544-5c8b19738677)
+
 
 ## Known Issues and are planned for a fix in the future updates
 
